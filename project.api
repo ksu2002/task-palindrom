@@ -1,0 +1,4 @@
+#
+!palindrom.c stdio.h #<#>
+main() -> int #<palindrom.c>
+numberOfDigitsInNumber(int number) -> int #<palindrom.c>
